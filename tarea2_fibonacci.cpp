@@ -18,4 +18,11 @@ b = 0;
             b = ne;
 
 }
+
+printf("preciosos recuerdos vaya -n-");
+  for (j = 1; j = 10 ; i++){
+    printf("hola!");
+  }
+
+printf("En teoria se imprimieron 10 hola's :P");
 }
